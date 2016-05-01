@@ -1,0 +1,8 @@
+DynamicGrid.iml
+local.properties
+.idea 
+build
+dynamicgrid/build
+dynamicgrid/dynamicgrid.iml
+example/build
+example/example.iml
